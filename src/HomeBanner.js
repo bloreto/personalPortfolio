@@ -2,7 +2,7 @@ import React from 'react'
 
 const HomeBanner = () => {
     return (
-        <h1 className="HomeBanner"></h1>
+        <div className="HomeBanner"></div>
     );
 }
 
