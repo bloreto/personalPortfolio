@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import './App.css';
-import HomeBanner from "./components/HomeBanner";
-import HomeBannerTitle from "./components/HomeBannerTitle";
+import HomeBanner from "./HomeBanner";
+import HomeBannerTitle from "./HomeBannerTitle";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
